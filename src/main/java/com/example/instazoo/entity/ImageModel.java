@@ -1,2 +1,4 @@
-package com.example.instazoo.entity;public class ImageModel {
+package com.example.instazoo.entity;
+
+public class ImageModel {
 }
